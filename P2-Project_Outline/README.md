@@ -25,4 +25,4 @@ To solve this problem, my cooking app will provide a recipe search that lets you
 * HTML/CSS
 
 ### What I'll Have to Learn
-I will need to learn whichever JavaScript framework I choose, possibly as well as a backend JS framework at some point (though I want to focus on the frontend for now). I'll also need to get acquainted with the API I choose. 
+I will need to learn whichever JavaScript framework I choose, possibly as well as a backend JS framework at some point (though I want to focus on the frontend for now). I'll also need to get acquainted with the API(s) I choose. 
