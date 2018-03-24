@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* [Recipe Search view](https://www.dropbox.com/s/lpcfr82yg3tptd5/IMG_2365.jpg?dl=0)
-* [Recipe detail view](https://www.dropbox.com/s/c7isg8vtemhwiyc/IMG_2366.jpg?dl=0)
-* [Collection view](https://www.dropbox.com/s/mxq7yrqsd9yhuf0/IMG_2367.jpg?dl=0)
+* [Recipe Search view](liftoff-assignments/P3-Project_Planning/IMG_2365.jpg)
+* [Recipe detail view](liftoff-assignments/P3-Project_Planning/IMG_2366.jpg)
+* [Collection view](liftoff-assignments/P3-Project_Planning/IMG_2367.jpg)
 
 ### Project Tracker
 
