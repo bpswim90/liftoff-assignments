@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn](https://www.linkedin.com/in/william-paulsen)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Resume (WIP)](/Technical%20Resume.pdf)
