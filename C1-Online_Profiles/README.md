@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn](https://www.linkedin.com/in/william-paulsen)
 
 ### Resume
-[Resume](/williampaulsen_resume.pdf)
+[Resume](/C1-Online_Profiles/williampaulsen_resume.pdf)
